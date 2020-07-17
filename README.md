@@ -14,3 +14,7 @@ to your `.bashrc`
 ## Uninstall
 
 just remove what you downloaded, and delete `source` command from your `.bashrc`
+
+## License
+
+MIT License. See LICENSE.
