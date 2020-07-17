@@ -3,6 +3,8 @@ pure, the minimal prompt for bash
 
 Inspired by [sindresorhus/pure](https://github.com/sindresorhus/pure)
 
+![Shell Images](image.png "Shell Images")
+
 ## Install
 
 just clone this repository (or just copy pure.bash) anywhare, and add
