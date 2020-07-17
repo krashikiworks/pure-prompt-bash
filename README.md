@@ -1,4 +1,4 @@
-# pure-prompt-bash
+# pure prompt for bash
 pure, the minimal prompt for bash
 
 Inspired by [sindresorhus/pure](https://github.com/sindresorhus/pure)
