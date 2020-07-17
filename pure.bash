@@ -94,7 +94,7 @@ __pure_update_git_status() {
 			git_status="$(git branch --show-current)"
 
 			# check clean/dirty
-			git_status="${git_status}$(git diff --quiet || echo ${pure_symbol_dirty})"
+			git_status="${git_status}$(git diff --quiet || echo "${pure_symbol_dirty}")"
 
 			# coloring
 			git_status="${BRIGHT_BLACK}${git_status}${RESET}"
