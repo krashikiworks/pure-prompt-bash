@@ -7,7 +7,7 @@ Inspired by [sindresorhus/pure](https://github.com/sindresorhus/pure)
 
 ## Install
 
-just clone this repository (or just copy pure.bash) anywhare, and add
+just clone this repository (or just copy pure.bash) anywhere, and add
 
     source /path/to/where/you/cloned/pure.bash
 
