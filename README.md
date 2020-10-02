@@ -9,7 +9,7 @@ Inspired by [sindresorhus/pure](https://github.com/sindresorhus/pure)
 
 just clone this repository (or just copy pure.bash) anywhere, and add
 
-    source /path/to/where/you/cloned/pure.bash
+    source /path/to/pure.bash
 
 to your `.bashrc`
 
